@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#heading1 {
+    color: blue;
+}
+
+#date {
+    color: gold;
+    font-style: italic;
+}
